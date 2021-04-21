@@ -1,0 +1,56 @@
+PODS:
+  - camera (0.0.1):
+    - Flutter
+  - closti_camera_plugin_test (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - camera
+    - Flutter
+    - integration_test
+    - path_provider
+    - video_player
+  - integration_test (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - video_player (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - camera (from `../closti_camera_plugin_test/.ios/.symlinks/plugins/camera/ios`)
+  - closti_camera_plugin_test (from `../closti_camera_plugin_test/.ios/Flutter`)
+  - Flutter (from `../closti_camera_plugin_test/.ios/Flutter/engine`)
+  - FlutterPluginRegistrant (from `../closti_camera_plugin_test/.ios/Flutter/FlutterPluginRegistrant`)
+  - integration_test (from `../closti_camera_plugin_test/.ios/.symlinks/plugins/integration_test/ios`)
+  - path_provider (from `../closti_camera_plugin_test/.ios/.symlinks/plugins/path_provider/ios`)
+  - video_player (from `../closti_camera_plugin_test/.ios/.symlinks/plugins/video_player/ios`)
+
+EXTERNAL SOURCES:
+  camera:
+    :path: "../closti_camera_plugin_test/.ios/.symlinks/plugins/camera/ios"
+  closti_camera_plugin_test:
+    :path: "../closti_camera_plugin_test/.ios/Flutter"
+  Flutter:
+    :path: "../closti_camera_plugin_test/.ios/Flutter/engine"
+  FlutterPluginRegistrant:
+    :path: "../closti_camera_plugin_test/.ios/Flutter/FlutterPluginRegistrant"
+  integration_test:
+    :path: "../closti_camera_plugin_test/.ios/.symlinks/plugins/integration_test/ios"
+  path_provider:
+    :path: "../closti_camera_plugin_test/.ios/.symlinks/plugins/path_provider/ios"
+  video_player:
+    :path: "../closti_camera_plugin_test/.ios/.symlinks/plugins/video_player/ios"
+
+SPEC CHECKSUMS:
+  camera: a0ca5080336f7af47b88436e5e26da3dee5568f0
+  closti_camera_plugin_test: 1cb3fc27753816a01d67b9e7b5ab0ae60c12f27e
+  Flutter: ac41d61a47ae5bf8195a5598d2d63754888ec0d5
+  FlutterPluginRegistrant: 05fb9e4f2cb56a07d466f634535ee11be1a2049b
+  integration_test: 6eb66a19f7104200dcfdd62bc0077e1b09686e4f
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  video_player: 9cc823b1d9da7e8427ee591e8438bfbcde500e6e
+
+PODFILE CHECKSUM: 1ead7eebfb6f82c488dc3956747f33d3b4748341
+
+COCOAPODS: 1.10.1

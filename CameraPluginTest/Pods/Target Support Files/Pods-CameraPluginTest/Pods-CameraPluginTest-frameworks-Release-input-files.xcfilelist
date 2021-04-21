@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-CameraPluginTest/Pods-CameraPluginTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/camera/camera.framework
+${PODS_ROOT}/../../closti_camera_plugin_test/.ios/Flutter/App.framework
+${BUILT_PRODUCTS_DIR}/integration_test/integration_test.framework
+${BUILT_PRODUCTS_DIR}/path_provider/path_provider.framework
+${BUILT_PRODUCTS_DIR}/video_player/video_player.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Flutter/Flutter.framework/Flutter
